@@ -1,3 +1,5 @@
+## Management System
+해당 프로젝트는 고객관리 프로그램 클론코딩 소스코드
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
